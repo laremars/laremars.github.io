@@ -112,7 +112,7 @@ nav a {
 }
 
 
-/* Work Experience
+/* Work Experience Section
 -------------------------*/
 .work {
   background: #EDF2F4;
@@ -128,16 +128,39 @@ h3 ~ p {
 }
 
 
-/* Education
+/* Education Section
 -------------------------*/
 .education {
-  background: linear-gradient(rgba(141, 153, 174, 0.8), rgba(141, 153, 174, 0.5)),
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(141, 153, 174, 0.5)),
               url(../images/knox2.jpg) no-repeat fixed;
   background-size: cover;
 }
 p + h3 {
   margin-top: 30px;
+  font-weight: bolder;
+
 }
+.education-text {
+  color: rgb(255, 255, 255);
+}
+.education-h3 {
+  font-weight: bold;
+}
+
+/*.education-text-background {
+  background: rgba(43, 45, 66, 1);
+  display: inline-block;
+}*/
+/*.education-text-background {
+  background: linear-gradient(rgba(43, 45, 66, 0.4), rgba(43, 45, 66, 1), rgba(43, 45, 66, 0.4));
+  display: inline-block;
+  border-radius: 1%;
+}
+.education-text-background-h {
+  background: linear-gradient(rgba(43, 45, 66, 1), rgba(43, 45, 66, 0.4), rgba(43, 45, 66, 1));
+  display: inline-block;
+  border-radius: 3%;
+}*/
 
 
 
