@@ -127,6 +127,19 @@ h3 ~ p {
   margin-top: 0;
 }
 
+.skills {
+  background: #ecf4f2;
+}
+h3 ~ p {
+  margin: 0;
+}
+.job-description {
+  margin-bottom: 25px;
+}
+.job-description p:first-of-type {
+  margin-top: 0;
+}
+
 
 /* Education Section
 -------------------------*/
