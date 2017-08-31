@@ -71,7 +71,7 @@ header {
   position: relative;
 }
 header h1, header h2 {
-  color: #EDF2F4;
+  color: #8D99AE;
   margin: 0;
 }
 .profile-img {
@@ -97,7 +97,7 @@ footer {
 -------------------------*/
 nav {
   text-align: center;
-  background: white;
+  background: #FF8200;
   position: fixed;
   top: 0;
   width: 100%;
@@ -111,6 +111,9 @@ nav a {
   font-weight: 700;
 }
 
+.tn-smokey {
+  color: #FFFFFF;
+}
 
 /* Work Experience Section
 -------------------------*/
@@ -139,7 +142,6 @@ h3 ~ p {
 .job-description p:first-of-type {
   margin-top: 0;
 }
-
 
 /* Education Section
 -------------------------*/
