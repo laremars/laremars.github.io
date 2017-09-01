@@ -163,6 +163,9 @@ p + h3 {
   font-weight: bold;
 }
 
+.curent-link {
+  color: rgb(24, 177, 39);
+}
 /*.education-text-background {
   background: rgba(43, 45, 66, 1);
   display: inline-block;
